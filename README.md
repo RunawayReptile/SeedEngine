@@ -1,4 +1,4 @@
-![Logo](https://runawayreptile.github.io/SeedEngine.png)
+![Logo](https://runawayreptile.github.io/SeedEngineLowRes.png)
 # SeedEngine
 A simple 2D Engine to enjoy making mini games
 ## Warning
